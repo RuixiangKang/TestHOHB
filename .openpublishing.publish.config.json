@@ -8,7 +8,7 @@
       "build_output_subfolder": "jobs",
       "locale": "en-us",
       "monikers": [],
-      "moniker_groups": [],
+      "moniker_ranges": [],
       "open_to_public_contributors": true,
       "type_mapping": {
         "Conceptual": "Content",
@@ -19,6 +19,10 @@
       "template_folder": "_themes",
       "version": 0
     }
+  ],
+  "notification_subscribers": [],
+  "branches_to_filter": [
+    "master"
   ],
   "git_repository_url_open_to_public_contributors": "",
   "skip_source_output_uploading": false,
@@ -31,4 +35,5 @@
       "branch_mapping": {}
     }
   ],
+  "need_generate_pdf_url_template": false
 }
